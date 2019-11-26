@@ -1,1 +1,26 @@
 /* insert you css */
+/*
+body{
+	background-color: white;
+}*/
+
+h1{
+	font-size: 65px;
+}
+
+.my-button {
+	background-color: #FF0000;
+}
+
+.my-button:hover {
+	background-color: black;
+}
+/*
+.intro-box {
+	background-color: #A4FDB9;
+	padding: 20px;
+}*/
+
+.intro-box p{
+	font-family: sans-serif;
+}
