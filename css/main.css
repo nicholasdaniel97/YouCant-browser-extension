@@ -1,8 +1,4 @@
-/* insert you css */
-/*
-body{
-	background-color: white;
-}*/
+
 
 h2{
 	font-family: Roboto-Condensed;
@@ -17,11 +13,7 @@ h2{
 	background-color: rgb(0, 0, 0, .6);
 	border-color: transparent;
 }
-/*
-.intro-box {
-	background-color: #A4FDB9;
-	padding: 20px;
-}*/
+
 
 .intro-box p{
 	font-family: Roboto;
