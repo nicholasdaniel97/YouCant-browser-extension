@@ -4,6 +4,14 @@ h2{
 	font-family: Roboto-Condensed, Roboto, sans-serif;
 }
 
+h3{
+	font-family: Roboto-Condensed, Roboto, sans-serif;
+}
+
+ul {
+	font-family: Roboto, sans-serif;
+}
+
 .my-button {
 	background-color: rgb(236, 37, 52, 1);
 	border-color: transparent;
@@ -16,6 +24,10 @@ h2{
 
 
 .intro-box p{
+	font-family: Roboto, sans-serif;
+}
+
+.features p{
 	font-family: Roboto, sans-serif;
 }
 
